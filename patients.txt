@@ -3,8 +3,10 @@
 3, name3, para,	f, 28
 4, name4, hexa, m, 31
 5, name5, hexa, f, 27
-6, name6, meta, m, 26
-7, name7, para, f, 32
-8, name8, para, f, 42
-9, name9, croc, f, 28
-11, name11, para, m, 39
+1
+2
+3
+4
+5
+6
+
