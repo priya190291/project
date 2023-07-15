@@ -1,3 +1,6 @@
 new file in brach dev1
 file added for checking.
 zero commit
+line 1
+line 2
+line 3
